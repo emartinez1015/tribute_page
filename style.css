@@ -53,9 +53,10 @@ html {
   }
   
   img {
-    max-width: 100%;
+    position: relative;
+    max-width: 80%;
     display: block;
-    height: auto;
+    max-height: 80%;
     margin: 0 auto;
   }
   
